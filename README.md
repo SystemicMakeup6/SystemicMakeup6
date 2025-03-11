@@ -1,5 +1,4 @@
 - 👋 Привет, я SystemicMakeup6.
-- 👀 Я интересуюсь: minecraft, magicka, dota2, cs2.
 - 🌱 Я изучаю: python, html, sqlite3.
 - 💞️ Я ищу сотрудничество: нет.
 - 📫 Связь со мной: [/t.me/](https://t.me/SystemicMakeup6).
